@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605610881 source:/home/dip/Desktop/clodeblockcpp/cpp/String/String/string.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605615599 source:/home/dip/Desktop/clodeblockcpp/cpp/swap/swap/swap.cpp
+	<iostream>
+	<string>
+	<boost/algorithm/string.hpp>
+	<string>
+

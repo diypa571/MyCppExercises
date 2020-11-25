@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605517708 source:/home/dip/Desktop/DataTypes/comments.cpp
+	<iostream>
+
+1605517746 source:/home/dip/Desktop/DataTypes/helloworld.cpp
+	<iostream>
+
+1605519319 source:/home/dip/Desktop/C++/DataTypes/helloworld.cpp
+	<iostream>
+
